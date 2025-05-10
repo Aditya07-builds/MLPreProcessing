@@ -1,1 +1,11 @@
 # MLPreProcessing
+
+This notebook is about how all the different data preprocessing tools were used on a dataset.
+What to exppect?
+
+1.IMPORTING IMPORTANT LIBRARIES
+2.IMPORTING THE DATASET
+3.TAKING CARE OF MISSING DATA
+4.ENCODING CATEGORICAL DATA
+5.SPLITTING DATASET INTO TRAINING AND TESTING DATA
+6.FEATURE SCALING
